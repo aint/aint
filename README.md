@@ -1,4 +1,5 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aint&show_icons=true)
+![my github stats](https://github-readme-stats.vercel.app/api?username=aint&show_icons=true)
+![lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aint&hide=html&layout=compact)
 
 <!--
 ### Hi there 👋
