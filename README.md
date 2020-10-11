@@ -1,3 +1,5 @@
+<a href="https://profile-counter.glitch.me/aint/count.svg"><p align="left"> # Visitors<br> <img src="https://profile-counter.glitch.me/aint/count.svg" /></a>
+
 ![my github stats](https://github-readme-stats.vercel.app/api?username=aint&show_icons=true)
 ![lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aint&hide=html&layout=compact)
 
