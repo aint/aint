@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Get in touch with me: 
+## Get in touch with me:
 
 <a href="https://www.linkedin.com/in/oleksandr-tyshkovets/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px"/></a>
 <a href="mailto:olexandr.tyshkovets@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="22px"/></a>
@@ -12,6 +12,3 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aint&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aint&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aint&theme=github)
-
-## LeetCode
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=aint)](https://github.com/KnlnKS/leetcode-stats)
