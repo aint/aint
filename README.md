@@ -1,11 +1,15 @@
-# Hi there 👋
+## 👋 Hello Hola Cześć Привіт Привет
 
-## Get in touch with me:
+👌 Go, Java, AWS, Kafka
 
-<a href="https://www.linkedin.com/in/oleksandr-t/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px"/></a>
+🌏 Open source:
+- [gnucash-android](https://github.com/codinguser/gnucash-android/blob/master/CONTRIBUTORS.md#core-developers) 1.3 ⭐
+- [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart/blob/9c7275a0596a7ac0e50ca566e680f7f9d73607af/MPChartLib/src/main/java/com/github/mikephil/charting/formatter/LargeValueFormatter.java#L18) >38K ⭐
+- [more](https://github.com/aint?tab=repositories&sort=stargazers) 
 
-## Visitors
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faint&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
+<a href="https://www.linkedin.com/in/oleksandr-t/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px"/></a>  get in touch.
+
+[![Hits](https://hits.sh/github.com/aint.svg?view=today-total&extraCount=13902)](https://hits.sh/github.com/aint/)
 
 ## Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aint&theme=github)
