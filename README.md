@@ -2,6 +2,8 @@
 
 👌 Go, Java, AWS, Kafka, Startups
 
+🎓 MSc in Applied Mathematics
+
 🌏 Open source:
 - [gnucash-android](https://github.com/codinguser/gnucash-android/blob/master/CONTRIBUTORS.md#core-developers) 1.3K ⭐
 - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart/blob/9c7275a0596a7ac0e50ca566e680f7f9d73607af/MPChartLib/src/main/java/com/github/mikephil/charting/formatter/LargeValueFormatter.java#L18) 38K ⭐
