@@ -8,12 +8,9 @@ I'm a product-focused engineer at a unicorn startup, with over 10 years of exper
 - 🚀 Focused on making a real difference, not just being another developer in the crowd.
 - 🎓 MSc in Applied Mathematics.
 - 💻 An open-source enthusiast.
-
-
-🌏 Open source:
-- [gnucash-android](https://github.com/codinguser/gnucash-android/blob/master/CONTRIBUTORS.md#core-developers) 1.3K ⭐
-- [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart/blob/9c7275a0596a7ac0e50ca566e680f7f9d73607af/MPChartLib/src/main/java/com/github/mikephil/charting/formatter/LargeValueFormatter.java#L18) 38K ⭐
-- [and more](https://github.com/aint?tab=repositories&sort=stargazers) 
+  - [gnucash-android](https://github.com/codinguser/gnucash-android/blob/master/CONTRIBUTORS.md#core-developers) 1.3K ⭐
+  - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart/blob/9c7275a0596a7ac0e50ca566e680f7f9d73607af/MPChartLib/src/main/java/com/github/mikephil/charting/formatter/LargeValueFormatter.java#L18) 38K ⭐
+  - [and more](https://github.com/aint?tab=repositories&sort=stargazers) 
 
 <a href="https://linkedin.com/in/oleksandr-t"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 
