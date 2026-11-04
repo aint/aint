@@ -27,5 +27,3 @@ I'm a product-focused engineer at a unicorn startup, with over 10 years of exper
 [![Hits](https://hits.sh/github.com/aint.svg?view=today-total&extraCount=13902)](https://hits.sh/github.com/aint/)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aint&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aint&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aint&theme=github)
